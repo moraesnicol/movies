@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  :heavy_check_mark: Flutter Web
+  :heavy_check_mark: Feed of Movies, powered by API
 </p>
 
 <hr />
@@ -23,7 +23,7 @@
 
 # :coffee: About
 
-My first front at Flutter Web
+Api movies
 
 
 
@@ -38,14 +38,14 @@ My first front at Flutter Web
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://github.com/moraesnicol/estudo_policial_flutter_web_build/blob/master/assets/Estudo.policial.gif" >
+   <img src="https://github.com/moraesnicol/movies/blob/master/movies.gif" >
 
 </div>
 
 # :rocket: Technologies
 This project was made using the follow technologies:
 
-* [Flutter Web](https://github.com/flutter/flutter_web)
+* [Flutter](https://github.com/flutter/flutter)
 
 
 
