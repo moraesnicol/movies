@@ -48,8 +48,6 @@ This project was made using the follow technologies:
 * [Flutter](https://github.com/flutter/flutter)
 
 
-
-
 # :page_facing_up: License
 
 This project is under the [MIT License](./LICENSE) |
