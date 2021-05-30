@@ -27,9 +27,6 @@ Api movies
 
 
 
-# [Confira o site ;) ](https://estudopolicial-moraesnicol.vercel.app/#/)
-
-
 # 📌 Contents
 
 * [Screenshots](#camera-screenshot)
